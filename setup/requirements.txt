@@ -4,4 +4,5 @@ pillow == 9.5.0
 ipynb == 0.5.1
 import_ipynb == 0.1.4
 matplotlib == 3.7.1
-sklearn
+scikit-learn
+pandas == 2.8.2
