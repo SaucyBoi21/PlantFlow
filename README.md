@@ -11,3 +11,11 @@ source venv/bin/activate
 cd setup
 pip3 install -r requirements.txt
 ```
+
+Windows
+```
+py -3 -m venv venv
+venv\Scripts\activate
+cd setup
+pip3 install -r requirements.txt
+```
