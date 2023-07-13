@@ -2,6 +2,8 @@
 
 AI-based biomass prediction written in Tensorflow
 
+Built by Saahas Swaroop and Jonathan Cardenas
+
 To run the code, run the following commands:
 
 MacOS/Linux
