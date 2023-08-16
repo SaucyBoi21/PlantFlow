@@ -1,10 +1,10 @@
 # PlantFlow
 
-AI-based biomass prediction written in Tensorflow
+Lettuce Segmentation and Biomass Prediction through Deep Neural Networks and Machine Learning.
 
-Built by Saahas Swaroop and Jonathan Cardenas at Ferrarezi Labs @ the University of Georgia. Publications in progress.
+Built by Saahas Swaroop and Jonathan S. Cardenas at Ferrarezi Labs @ the University of Georgia. Paper publications pending.
 
-To run the code, run the following commands:
+To setup the environment run the following commands:
 
 MacOS/Linux
 ```
