@@ -24,5 +24,5 @@ pip3 install -r requirements.txt
 To run TensorBoard run the following commands:
 
 ```
-tensorboard --logdir logs/hyperparm_tuning/regression/{LFW/LDW/LA}
+tensorboard --logdir logs/hyperparm_tuning/regression/ {LFW/LDW/LA}
 ```
